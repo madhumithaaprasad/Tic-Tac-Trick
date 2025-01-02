@@ -1,4 +1,4 @@
-ody {
+body {
     font-family: 'Arial', sans-serif;
     background-color: #f7f7f7;
     display: flex;
@@ -62,7 +62,7 @@ h1 {
     padding: 10px 20px;
     font-size: 1rem;
     color: #fff;
-    background-color: #007BFF;
+    background-color: #46adb3;
     border: none;
     border-radius: 5px;
     cursor: pointer;
