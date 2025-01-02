@@ -26,7 +26,8 @@ This project is a browser-based Tic Tac Toe game where two players can take turn
    ```bash
    git clone https://github.com/madhumithaaprasad/SCT_WD_3.git
 
-![image](https://github.com/user-attachments/assets/50faa699-9385-44fb-a4b9-43ff92e788db)
+![image](https://github.com/user-attachments/assets/e1af1fd1-cbe6-495d-9b6b-4a64d651f678)
+
 
 
 
