@@ -61,3 +61,4 @@ function resetGame() {
 resetButton.addEventListener('click', resetGame);
 
 createGrid();
+
