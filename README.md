@@ -25,6 +25,8 @@ This project is a browser-based Tic Tac Toe game where two players can take turn
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/tic-tac-toe.git
-![image](https://github.com/user-attachments/assets/9068b73f-c035-4aeb-8b49-68fa19808ef4)
+
+![image](https://github.com/user-attachments/assets/50faa699-9385-44fb-a4b9-43ff92e788db)
+
 
 
